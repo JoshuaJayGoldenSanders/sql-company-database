@@ -2,7 +2,12 @@
 
 This project demonstrates SQL database fundamentals.
 
-Concepts practiced:
+# Projects Included:
+- Company Database Project
+  Basic SQL databases showing table creation and relationships
+- Employee Management Project
+  Demonstrates JOIN queries, aggregate functions, and filtering
+# Concepts practiced:
 - CREATE TABLE
 - PRIMARY KEY
 - FOREIGN KEY
